@@ -1,5 +1,4 @@
-import time, sys, os, animals, termcolor, typewrite, colors
-import figures2 as figures
+import time, sys, os, animals, termcolor, typewrite, colors, figures
 def clear():
         os.system('clear')
 def is_over(all):
