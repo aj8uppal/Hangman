@@ -10,6 +10,6 @@ We use a module, `termcolor`, to color the text. You can get `termcolor` by typi
     
 Into your command line.
 
-From there, we define several user-modules, `animals`, `typewrite`, `figures`, *for the **graphics*** and `colors`.
+From there, we define several user-modules, `animals`, `typewrite`, `figures`, *for the graphics* and `colors`.
 
 Enjoy!
